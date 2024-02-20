@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joonas</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Computer Science student from Finland</h3>
 
 - 🔭 I’m currently working on [Healthcare appointment system](https://github.com/jmzii/healthcare-appointment-system)
 
