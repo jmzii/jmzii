@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **React, Node and Git**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1nT0AbFYB8_kMjhwEfgtcIpKmeOQsn5-M/view?usp=sharing](https://drive.google.com/file/d/1nT0AbFYB8_kMjhwEfgtcIpKmeOQsn5-M/view?usp=sharing)
-
 - ⚡ Fun fact **I like to fix printers**
 
 <h3 align="left">Connect with me:</h3>
